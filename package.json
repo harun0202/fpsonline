@@ -1,0 +1,12 @@
+{
+  "name": "online-fps-sunucu",
+  "version": "1.0.0",
+  "description": "Multiplayer Game Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.5.4"
+  }
+}
